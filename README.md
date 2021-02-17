@@ -17,4 +17,12 @@
 Careted by Sultan Shariar
 
 # Dastorat
+____________________________________________________
+× git clone https://github.com/shazada-shariar/FBALL
+
+× cd FBALL
+
+× python2 sultan.py
+____________________________________________________
+ما میمانیم 🤟 تا به دریا حکم طوفان💪بدهیم
 
